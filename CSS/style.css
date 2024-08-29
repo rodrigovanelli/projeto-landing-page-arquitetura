@@ -40,12 +40,12 @@ header>p {
     align-items: center;
 }
 #descricao>div>h2 {
-    margin: 200px 0 25px 50px;
+    margin: 200px 130px 25px 100px;
     font-size: 40px;
 }
 
 #descricao>div>p {
-    margin-left: 50px;
+    margin: 10px 130px 0px 100px;
     font-size: 24px;
 }
 
