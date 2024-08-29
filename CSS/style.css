@@ -30,8 +30,8 @@ header>p {
 }
 
 #descricao {
-    display: grid;
-    grid-auto-flow: column;
+    display: flex;
+    justify-content: center;
     font-family: "Inter", sans-serif;
 }
 #descricao>div {
